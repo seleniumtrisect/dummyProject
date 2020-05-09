@@ -1,0 +1,5 @@
+CourseID	StudentName
+1001		Raghav
+1003		Priyansh
+1002		Karan
+1002		Akash
